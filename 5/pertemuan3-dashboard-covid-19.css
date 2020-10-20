@@ -1,0 +1,11 @@
+body {
+    margin-bottom: 100px;
+    margin-top: 30px;
+    color: #ff3333;
+    background-image: url(11.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
